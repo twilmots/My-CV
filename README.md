@@ -53,7 +53,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 **Skills**
   - Proficient in Excel, MATLAB, Python and SQL
   - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use
-<br>
+
 ## :speech_balloon: Langauges
 **English and Dutch** - Fluent
 
