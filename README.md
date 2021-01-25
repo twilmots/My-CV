@@ -35,13 +35,13 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 **Student Research Analyst** @ [BCG](https://www.bcg.com/en-gb/) _(May 2015 - June 2015)_ <br>
   - Part of a team working for a Consumer Packaged Goods (CPG) firm that was losing market share
   - Analyzed price discrepancies amongst our client and the four leading CPG retailers in the market and their possible contribution to falling sales revenue
-  
+  <br><br>
   
 ## :basketball: Hobbies
   - Member of Sokol Vysehrad Basketball, competing at the U18 National Level in the Czech Republic
   - Member of Varsity basketball team at Swarthmore College, competing at the Division III level
   - Member of Hoxton Heat playing in the highest recreational division in London
-
+  <br><br>
 
 ## :trophy: :black_nib: Awards and Skills
 **Tau Beta Pi - National Engineering Honor Society Inductee** 
@@ -57,7 +57,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 **Skills**
   - Proficient in Excel, MATLAB, Python and SQL
   - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use
-
+  <br><br>
 
 ## :speech_balloon: Langauges
 **English and Dutch** - Fluent
