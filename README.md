@@ -5,13 +5,13 @@ _Data Science and AI consultant at EY_
 [Email](mailto:twilmots@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tom-wilmots-030781a6/)
 
 ## :mortar_board: Education
-**MSc in Finance and Economics - Merit**
+**MSc in Finance and Economics - Merit** <br>
 [London School of Economics](https://www.lse.ac.uk/) - London, U.K. (June 2018)
 Notable Coursework: Financial Engineering, Financial Econometrics, Financial Economics, Fixed Income Markets
 Thesis: Empirical Evidence of Volatility Regimes in U.S. Equity Market
 <br>
 
-**B.S. in Engeering and B.A. in Economics - 3.8 GPA**
+**B.S. in Engeering and B.A. in Economics - 3.8 GPA** <br>
 [Swarthmore College](https://www.swarthmore.edu/) - Swarthmore, PA (May 2017)
 Notable Coursework: Computer Vision, Mobile Robotics, Computer Science, Numerical Methods, Linear Algebra 
 Engineering Thesis: Application of Neural Networks with Handwriting Samples
@@ -27,7 +27,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
     - Worked as a client facing data analyst helping the client scope and implement their strategic Master Data Management Capability requiring strong knowledge of IT data               architecture, data structures and business application of data services
     - The client used the implemented MDM capability as the ‘spine’ of all types of operational and analytical data usage such as servicing customers, driving simple and efficient processes, and new product development
    - **Transformation of Data & Analytics Delivery function for Global Tier 1 Commercial Bank**
-    - Underwent detailed analysis to develop transformation roadmap for 650+ person organization focusing on labor arbitrage, ways of working, utilities and increased business           integration
+    - Underwent detailed analysis to develop transformation roadmap for 650+ person organization focusing on labor arbitrage, ways of working, utilities and increased business integration
     - Drove down unit cost of analytics delivery through 20% efficiency gains focusing on automation implementation and self-serve data services 
     
 <br><br>
