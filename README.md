@@ -4,7 +4,7 @@ _Data Science and AI enthusiast with a lifelong passion for learning_
 
 [Email](mailto:twilmots@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tom-wilmots-030781a6/)
 
-## :mortar_board: Education
+## 🎓 Education
 **MSc in Finance and Economics - Merit** <br>
 [London School of Economics](https://www.lse.ac.uk/) - London, U.K. (June 2018) <br>
 Notable Coursework: Financial Engineering, Financial Econometrics, Financial Economics, Fixed Income Markets <br>
