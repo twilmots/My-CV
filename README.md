@@ -16,6 +16,7 @@ Thesis: Empirical Evidence of Volatility Regimes in U.S. Equity Market
 Notable Coursework: Computer Vision, Mobile Robotics, Computer Science, Numerical Methods, Linear Algebra <br>
 Engineering Thesis: Application of Neural Networks with Handwriting Samples
 
+
 ## :bulb: Work Experience
 
 **Data Science and AI Senior Consultant | Banking and Capital Markets** @ [EY](https://www.ey.com/en_gl) _(September 2018 - Present)_ <br>
@@ -34,10 +35,12 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
   - Part of a team working for a Consumer Packaged Goods (CPG) firm that was losing market share
   - Analyzed price discrepancies amongst our client and the four leading CPG retailers in the market and their possible contribution to falling sales revenue
   
+  
 ## :basketball: Hobbies
   - Member of Sokol Vysehrad Basketball, competing at the U18 National Level in the Czech Republic
   - Member of Varsity basketball team at Swarthmore College, competing at the Division III level
   - Member of Hoxton Heat playing in the highest recreational division in London
+
 
 ## :trophy: :black_nib: Awards and Skills
 **Tau Beta Pi - National Engineering Honor Society Inductee** 
@@ -53,6 +56,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 **Skills**
   - Proficient in Excel, MATLAB, Python and SQL
   - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use
+
 
 ## :speech_balloon: Langauges
 **English and Dutch** - Fluent
