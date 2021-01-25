@@ -15,6 +15,7 @@ Thesis: Empirical Evidence of Volatility Regimes in U.S. Equity Market
 [Swarthmore College](https://www.swarthmore.edu/) - Swarthmore, PA (May 2017) <br>
 Notable Coursework: Computer Vision, Mobile Robotics, Computer Science, Numerical Methods, Linear Algebra <br>
 Engineering Thesis: Application of Neural Networks with Handwriting Samples
+<br><br>
 
 
 ## :bulb: Work Experience
