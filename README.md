@@ -1,6 +1,6 @@
 # Tom Wilmots
 
-_Data Science and AI consultant at EY_
+_Data Science and AI enthusiast with a lifelong passion for learning_
 
 [Email](mailto:twilmots@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tom-wilmots-030781a6/)
 
