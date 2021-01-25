@@ -2,7 +2,7 @@
 
 _Data Science and AI enthusiast with a lifelong passion for learning_
 
-[Email](mailto:twilmots@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tom-wilmots-030781a6/)
+[Email](mailto:twilmots@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tom-wilmots-030781a6/) / [GitHub](https://github.com/twilmots?tab=repositories)
 
 ## 🎓 Education
 **MSc in Finance and Economics - Merit** <br>
