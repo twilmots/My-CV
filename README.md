@@ -54,7 +54,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 **Chartered Institute of Management Accountants (CIMA)**
   - Certificate in Business Accounting (Cert BA)
   
-**Skills**
+**Technical Capabilities**
   - Proficient in Excel, MATLAB, Python and SQL
   - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use
   <br><br>
