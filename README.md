@@ -18,7 +18,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 <br><br>
 
 
-## :bulb: Work Experience
+## 💡 Work Experience
 
 **Data Science and AI Senior Consultant | Banking and Capital Markets** @ [EY](https://www.ey.com/en_gl) _(September 2018 - Present)_ <br>
   - **Product Analyst for Sanctions Screening Machine Learning Product**
@@ -37,13 +37,13 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
   - Analyzed price discrepancies amongst our client and the four leading CPG retailers in the market and their possible contribution to falling sales revenue
   <br><br>
   
-## :basketball: Hobbies
+## 🏀 Hobbies
   - Member of Sokol Vysehrad Basketball, competing at the U18 National Level in the Czech Republic
   - Member of Varsity basketball team at Swarthmore College, competing at the Division III level
   - Member of Hoxton Heat playing in the highest recreational division in London
   <br><br>
 
-## :trophy: :black_nib: Awards and Skills
+## 🏆 ✒️ Awards and Skills
 **Tau Beta Pi - National Engineering Honor Society Inductee** 
   - Oldest Engineering Honor Society in the United States
   - Top 20% and top 10% of senior and junior class, respectively, considered for induction
@@ -59,7 +59,7 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
   - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use
   <br><br>
 
-## :speech_balloon: Langauges
+## 💬 Langauges
 **English and Dutch** - Fluent
 
 
