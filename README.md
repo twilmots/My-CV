@@ -30,7 +30,6 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
     - Underwent detailed analysis to develop transformation roadmap for 650+ person organization focusing on labor arbitrage, ways of working, utilities and increased business integration
     - Drove down unit cost of analytics delivery through 20% efficiency gains focusing on automation implementation and self-serve data services 
     
-<br>
 **Student Research Analyst** @ [BCG](https://www.bcg.com/en-gb/) _(May 2015 - June 2015)_ <br>
   - Part of a team working for a Consumer Packaged Goods (CPG) firm that was losing market share
   - Analyzed price discrepancies amongst our client and the four leading CPG retailers in the market and their possible contribution to falling sales revenue
@@ -43,15 +42,18 @@ Engineering Thesis: Application of Neural Networks with Handwriting Samples
 ## :trophy: :black_nib: Awards and Skills
 **Tau Beta Pi - National Engineering Honor Society Inductee** 
   - Oldest Engineering Honor Society in the United States
-  - Top 20% and top 10% of senior and junior class, respectively, considered for induction <br>
+  - Top 20% and top 10% of senior and junior class, respectively, considered for induction
+  
 **Microsoft**
-  - Microsoft Azure Fundamentals Certificate (AZ-900) <br>
+  - Microsoft Azure Fundamentals Certificate (AZ-900)
+  
 **Chartered Institute of Management Accountants (CIMA)**
   - Certificate in Business Accounting (Cert BA)
+  
 **Skills**
   - Proficient in Excel, MATLAB, Python and SQL
-  - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use <br>
-
+  - Experience with TensorFlow and Scikit-Learn machine learning packages for development and production use
+<br>
 ## :speech_balloon: Langauges
 **English and Dutch** - Fluent
 
